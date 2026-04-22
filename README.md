@@ -5,5 +5,6 @@ In this project, I implemented a reinforcement learning algorithm to train an ag
 Computer scientists find and implement ways to improve old algorithms, or create new algorithms altogether. These algorithms range from sorting three numbers to identifying intruders in a network to solving complex protein folding. These algorithms, although sometimes small in the case of sorting three numbers, are in constant use by an ever increasing adoption of technology in the modern world.
 
 ## How do I approach a problem as a computer scientist?
+When approaching a problem, I attempt to thoroughly understand the issue needing a solution. This is typically done through reading and notetaking, from which the problem is broken down into smaller, more manageable subproblems. Afterwards, the subproblems are prioritized based on several factors, such as current knowledge of the subproblem, reliance on another subproblem's completion, expected work needed for implementing a solution, etc. Once the subproblems are prioritized, I begin researching to fill any lack of knowledge and generate solutions for each subproblem in order of priority.
 
 ## What are my ethical responsibilities to the end user and the organization?
